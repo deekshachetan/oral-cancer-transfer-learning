@@ -1,0 +1,13 @@
+# Main analysis (Google Colab, NVIDIA T4)
+tensorflow==2.20.0
+keras==3.13.2
+numpy==2.1.3
+pandas
+scikit-learn
+scipy
+pillow
+matplotlib
+# Revision analyses (notebook 3)
+torch
+transformers
+easyocr

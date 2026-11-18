@@ -1,0 +1,10 @@
+# Never commit data, restricted files or model weights
+*.jpg
+*.jpeg
+*.png
+*.h5
+*.weights.h5
+external*.csv
+*REVIEW_ONLY*
+evidence_package*
+PRIVATE_*

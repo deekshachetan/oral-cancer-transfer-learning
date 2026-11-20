@@ -1,6 +1,6 @@
 # Deep transfer learning for oral cancer classification: controlled comparison and external validation
 
-Analysis code for the article *"Deep Transfer Learning for Automated Oral Cancer Classification from Clinical Images: Controlled Comparative Evaluation and External Validation"* (Chetan, Bhat, Navada, Shetty; *Bioengineering*, 2026).
+Analysis code for the article *"Deep Transfer Learning for Automated Oral Cancer Classification from Clinical Images: Controlled Comparative Evaluation and External Validation"* (Chetan, Bhat, Navada, Shetty, Vijayalaxmi; *Bioengineering*, 2026).
 
 ## Contents
 

@@ -34,7 +34,7 @@ Google Colab with an NVIDIA T4 GPU. Main analysis: Python 3.13, TensorFlow 2.20.
 
 ## Citation
 
-If you use this code, please cite the article (citation details will be added on publication) and this archive: [Zenodo DOI of code].
+If you use this code, please cite the article (citation details will be added on publication) and this archive: [(https://doi.org/10.5281/zenodo.24389902.)].
 
 ## Licence
 

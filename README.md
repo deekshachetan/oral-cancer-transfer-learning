@@ -26,7 +26,7 @@ The notebooks expect the folder structure `oral project/oral_clean/` (developmen
 
 ## Trained models
 
-Checkpoints of the seven locked models are archived at Zenodo: 10.5281/zenodo.24389902.
+Checkpoints of the seven locked models are archived at Zenodo:https://doi.org/10.5281/zenodo.24389902.
 
 ## Environment
 
